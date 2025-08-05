@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 3fd88b26c569bbe449076aa7d9068e3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - checkPanel: {instanceID: 0}
+  - checkButton: {instanceID: 0}
+  - checkText: {instanceID: 0}
+  - promotionUI: {instanceID: 0}
+  - queenButton: {instanceID: 0}
+  - rookButton: {instanceID: 0}
+  - bishopButton: {instanceID: 0}
+  - knightButton: {instanceID: 0}
+  - whiteQueenPrefab: {fileID: 7331055346663645926, guid: 1b6dc388d8c2f5d43b7d0a7488bbb172, type: 3}
+  - whiteRookPrefab: {fileID: 3205897576407199478, guid: 494f7d18d6add3040a8064679ec61b56, type: 3}
+  - whiteBishopPrefab: {fileID: 6786058955009213448, guid: c1e91be578fefaf43980d924f3ee2bb7, type: 3}
+  - whiteKnightPrefab: {fileID: 2476058284188939194, guid: fd04dbb4ab1c7d44baf53dd1f8fe773a, type: 3}
+  - blackQueenPrefab: {fileID: 6932144397685993880, guid: 82cd4f6ab0530c64c85f46ab530cebd4, type: 3}
+  - blackRookPrefab: {fileID: 7220247830695819608, guid: 4769704974a9cea4a983589efcf837ef, type: 3}
+  - blackBishopPrefab: {fileID: 6870469631150548640, guid: 7a65c042c74f6924f9cec5e2c9ff0db0, type: 3}
+  - blackKnightPrefab: {fileID: 5874555453990693938, guid: cfe6866f1bd1dcc4b943436a213012b9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
